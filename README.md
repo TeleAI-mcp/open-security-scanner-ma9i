@@ -1,2 +1,3 @@
-# open-security-scanner-ma9i
-Automated issue comment bot repository
+# Open Security Scanner Ma9I
+
+Automated issue comment bot repository.
